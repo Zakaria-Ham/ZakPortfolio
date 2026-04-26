@@ -29,7 +29,6 @@ const STYLES = [
 const SOFTWARE = [
   { name: "DaVinci Resolve",  role: "Scenes & Fusion",           abbr: "DR" },
   { name: "CapCut (Main)",    role: "Short/long form & mobile",  abbr: "CC" },
-  { name: "Alight Motion",    role: "Animating",                 abbr: "AM" },
   { name: "BandLab",          role: "Music & Audio mixing",      abbr: "BL" },
 ];
 

@@ -36,8 +36,8 @@ const PROJECTS = [
 ];
 
 const EXPERIENCE = [
-  { year: "2025", title: "Creative Director",   place: "redled.fx — Self",       desc: "Full visual direction · brand · web · motion" },
-  { year: "2024", title: "UI Designer",          place: "Freelance — Remote",     desc: "Multiple client projects · SaaS · social media" },
+  { year: "2025", title: "Creative Director",   place: "redled.fx — Self",       desc: "Full visual direction · web · motion" },
+  { year: "2024", title: "UI Designer",          place: "Freelance — Remote",     desc: "Design for USMH Ultras" },
   { year: "2023", title: "Visual Designer",      place: "Personal Projects",      desc: "Identity design · illustration · motion graphics" },
   { year: "2022", title: "Design Studies Begin", place: "Self-taught + Courses",  desc: "Figma · Photoshop · fundamentals" },
 ];
